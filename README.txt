@@ -1,0 +1,1 @@
+Version professionnelle sans commentaires visibles côté client. Uploade les fichiers dans GitHub puis connecte Cloudflare Pages.
